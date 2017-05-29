@@ -1,0 +1,10 @@
+DROP TABLE Diagnoza;
+DROP TABLE Recepty;
+DROP TABLE Badania;
+DROP TABLE Lista_diagnoz;
+DROP TABLE Lista_recept;
+DROP TABLE Lista_badan;
+DROP TABLE Wizyty;
+DROP TABLE Pacjenci;
+DROP TABLE Lekarze;
+DROP TABLE Poradnie;
